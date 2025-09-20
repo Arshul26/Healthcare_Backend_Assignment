@@ -108,9 +108,9 @@ python manage.py runserver
 
 - Postman Collection: `docs/postman_collection.json`
 - API Response Screenshots:
-  - Register: `docs/register.png`
-  - Login: `docs/login.png`
-  - Patient: `docs/patient.png`
-  - Doctor: `docs/doctor.png`
-  - Mapping: `docs/mapping.png`
+  - Register API: ![Register](docs/register.png)
+  - Login API: ![Login](docs/login.png)
+  - Patient API: ![Patient](docs/patient.png)
+  - Doctor API: ![Doctor](docs/doctor.png)
+  - Mapping API: ![Mapping](docs/mapping.png)
 ---
